@@ -11,6 +11,7 @@ import Student from './Student';
 import StudentComp from './StudentWithConst';
 const ele = <DisplayDetails name="Lalit" address="N Delhi"/>;
 
+
 var user={"name" :"Ajay kumar" , "imgUrl":"/images/logo192.png"};
 
 
